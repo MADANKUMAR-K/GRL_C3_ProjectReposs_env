@@ -1,0 +1,27 @@
+{
+	"buildVersion": "v30068",
+	"portNum": "3003",
+	"IntVersion": "2.0.0.39.01",
+	"supportedBrowsers": [
+		{
+			"Chrome": {
+				"supportedVersion": "79.0.4147.90"
+			}
+		},
+		{
+			"Firefox": {
+				"supportedVersion": "76.0"
+			}
+		},
+		{
+			"Safari": {
+				"supportedVersion": "14.1.2"
+			}
+		},
+		{
+			"Microsoft Edge": {
+				"supportedVersion": "77.0.664.52"
+			}
+		}
+	]
+}
