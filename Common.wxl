@@ -4,7 +4,7 @@
 
 	<String Id="ProductNameFolder">GRL-C3-MP-TPR</String>
 
-	<String Id="ProductName_x64">C3BrowserApp_x64</String>
+	<String Id="ProductName_x64">GRL-C3-MP-TPR_x64</String>
 
 	<String Id="Description">Granite River Labs Application</String>
 	<String Id="Comments">C3 Browser App</String>
