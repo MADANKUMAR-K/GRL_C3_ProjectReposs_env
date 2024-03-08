@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WixLocalization Culture="en-us" xmlns="http://schemas.microsoft.com/wix/2006/localization">
+	<String Id="Company">Granite River Labs</String>
+
+	<String Id="ProductNameFolder">GRL-C3-MP-TPR</String>
+
+	<String Id="ProductName_x64">C3BrowserApp_x64</String>
+
+	<String Id="Description">Granite River Labs Application</String>
+	<String Id="Comments">C3 Browser App</String>
+	<String Id="Keywords">dotnet,core,application,installer</String>
+
+	<String Id="DowngradeErrorMessage">A newer version of C3BrowserApp is already installed.</String>
+
+	<String Id="Language">1033</String>
+</WixLocalization>
